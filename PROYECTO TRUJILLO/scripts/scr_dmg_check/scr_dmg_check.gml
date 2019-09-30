@@ -1,0 +1,1 @@
+var check=argument0;
