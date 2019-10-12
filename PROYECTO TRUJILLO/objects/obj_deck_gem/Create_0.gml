@@ -1,6 +1,7 @@
 /// @description Inserte aquí la descripción
-window_set_size(1280,720);//opcional
+window_set_size(960,540);//opcional principal 1280,720
 window_set_position(1920/6,1080/6);//(if 1920x1080)
+window_set_cursor(cr_hourglass);
 randomize();
 room_speed=60;// aumentador de fps, no probar en consolas si lo exportas, bajarlo a 30
 //crea la deck(no se requiere en este juego , pero es necesitado para verlo fuera de listas
